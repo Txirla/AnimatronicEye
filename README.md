@@ -24,3 +24,8 @@ The code is written for the `esp32` microcontroller development board.
 
 For now there is only the basic firmware to control the ye with a basic joystick and also run
 hardcoded animations that could probably be improved.
+
+## License
+
+- **Software Code**: Licensed under the GNU General Public License (GPL). See [LICENSE_CODE](./LICENSE_CODE) for details.
+- **3D Models (STL Files)**: Licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license. See [LICENSE_MODELS](./LICENSE_MODELS) for details.
